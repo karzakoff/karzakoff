@@ -1,6 +1,6 @@
  ## Hello I’m @karzakoff 👋
 - 👀 I’m interested in Cybersecurity and Front-end
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript, Vue.js and Ruby (on Rails)
 - But I also learned Golang, SQL, GraphQL, HTML, CSS
 
 Eternity only lasts for a while, be yourself, be a coder. 💻
