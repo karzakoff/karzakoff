@@ -4,6 +4,8 @@
   
 
 ### <div align="center">I'm Lucas Porte, an aspirant full-stack developer 👨‍💻 </div>  
+
+<br>
   
 
 - 🔭 I’m currently working on a social network  
